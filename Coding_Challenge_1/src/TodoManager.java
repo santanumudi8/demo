@@ -5,6 +5,7 @@ public class TodoManager {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// Adding this comment line for checking git command
+		// Added another comment line for checking git command
 		Scanner sc = new Scanner(System.in);
 		String personName;
 		int numberOfTask;
